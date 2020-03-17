@@ -1,2 +1,2 @@
-# resume_bl
-BL RESUME
+# resume
+个人简历模板
